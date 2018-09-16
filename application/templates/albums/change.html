@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+  
+{% block body %}
+<header><h1>{{ album.name }}</h1></header>
+<form method="POST" action="{{ url_for('albums_change_details', album_id=album.id) }}">
+  <input type="text" name="name"/>
+  <input type="submit" value="Change the album name"/>
+</form>
+{% endblock %}
