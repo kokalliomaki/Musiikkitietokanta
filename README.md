@@ -18,3 +18,6 @@ Toimintoja:
 
 ## Linkki user storyihin
 [Käyttötapauksia](https://github.com/kokalliomaki/Musiikkitietokanta/blob/master/documentation/User%20Stories.md)
+
+## Linkki luokkakaavioon
+[Alustava luokkakaavio](https://github.com/kokalliomaki/Musiikkitietokanta/blob/master/documentation/luokkakaavio.pdf)
