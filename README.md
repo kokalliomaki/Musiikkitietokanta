@@ -13,5 +13,5 @@ Toimintoja:
 * Levyjen lisääminen omiin levyihin
 * Levyjen arvosteleminen
 
-## Linkki sovellukseen herokussa
+## Linkki sovellukseen
 [Musiikkitietokanta herokussa](https://tsoha-musiikkitietokanta.herokuapp.com/)
