@@ -15,3 +15,6 @@ Toimintoja:
 
 ## Linkki sovellukseen
 [Musiikkitietokanta herokussa](https://tsoha-musiikkitietokanta.herokuapp.com/)
+
+## Linkki user storyihin
+[Käyttötapauksia](https://github.com/kokalliomaki/Musiikkitietokanta/blob/master/documentation/User%20Stories.md)
