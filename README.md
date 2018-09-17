@@ -1,9 +1,13 @@
 # Musiikkitietokanta
 ## aihekuvaus
 Tarkoituksena on rakentaa kevyt musiikkitietokanta, johon voi tallentaa tietoa kappaleista ja levyistä
-sekä niihin liittyvistä musiikkigenreistä. Tietokantaan tulee myös kirjautusmismahdollisuus, jossa
-käyttäjä voi pitää kirjaa omistamistaan albumeista sekä arvostella niitä. Koska kyseessä on elävä
-tietokanta, tietoja tulee myös kyetä päivittämään tarpeen mukaan.
+sekä niihin liittyvistä musiikkigenreistä. Sovellukseen tulee myös kirjautusmismahdollisuus. Sovelluksen
+käyttäjä voi pitää kirjaa omistamistaan albumeista sekä arvostella niitä. Tietoja tulee myös kyetä
+päivittämään tai korjaamaan tarpeen mukaan.
+
+Tietokanta toteutetaan albumikeskeisesti. Albumit ovat asioita, joita käyttäjät omistavat ja joita
+kommentoidaan ja arvioidaan. Jokainen yksittäinen albumi kuuluu myös yhteen tai useampaan
+musiikkigenreen, jonka perusteella käyttäjä voi etsiä kannasta mahdollisesti itselleen uutta musiikkia.
 
 Toimintoja:
 * Artistien, kappaleiden ja levyjen lisääminen, haku ja poisto
@@ -19,5 +23,5 @@ Toimintoja:
 ## Linkki user storyihin
 [Käyttötapauksia](https://github.com/kokalliomaki/Musiikkitietokanta/blob/master/documentation/User%20Stories.md)
 
-## Linkki luokkakaavioon
-[Alustava luokkakaavio](https://github.com/kokalliomaki/Musiikkitietokanta/blob/master/documentation/luokkakaavio.pdf)
+## Linkki tietokantakaavioon
+[Alustava tietokantakaavio](https://github.com/kokalliomaki/Musiikkitietokanta/blob/master/documentation/luokkakaavio.pdf)
